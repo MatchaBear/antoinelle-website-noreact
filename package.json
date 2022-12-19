@@ -4,7 +4,8 @@
   "description": "This is an attempt to re-build an initially React-based webpage into an ordinary html and css-based only page.",
   "main": "tailwind.config.js",
   "scripts": {
-    "tailwind": "npx tailwindcss -i input.css -o ./dist/output.css --watch"
+    "tailwind": "npx tailwindcss -i input.css -o ./dist/output.css --watch",
+    "prettier": "npx prettier --write ./*.html"
   },
   "repository": {
     "type": "git",
