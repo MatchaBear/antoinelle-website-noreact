@@ -1,0 +1,20 @@
+{
+  "name": "antoinelle-noreact",
+  "version": "1.0.0",
+  "description": "This is an attempt to re-build an initially React-based webpage into an ordinary html and css-based only page.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatchaBear/antoinelle-website-noreact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatchaBear/antoinelle-website-noreact/issues"
+  },
+  "homepage": "https://github.com/MatchaBear/antoinelle-website-noreact#readme"
+}
