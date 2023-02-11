@@ -20,5 +20,8 @@
   "homepage": "https://github.com/MatchaBear/antoinelle-website-noreact#readme",
   "devDependencies": {
     "prettier-plugin-tailwindcss": "^0.2.1"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.2.6"
   }
 }
